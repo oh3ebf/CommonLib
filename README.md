@@ -1,2 +1,2 @@
 # CommonLib
-Java library containing comonly used helper classes
+Java library containing commonly used helper classes
