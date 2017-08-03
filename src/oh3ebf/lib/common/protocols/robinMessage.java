@@ -1,18 +1,10 @@
-/*
- **********************************************************
- * Software: common library 
- * 
- * Module: robin protocol message class 
- * 
+/**
+ * Software: common library
+ * Module: robin protocol message class
  * Version: 0.1
- * 
  * Licence: GPL2
- *
- * Owner: Kim Kristo 
- * 
+ * Owner: Kim Kristo
  * Date creation : 2.2.2011
- *
- **********************************************************
  */
 package oh3ebf.lib.common.protocols;
 

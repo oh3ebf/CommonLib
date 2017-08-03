@@ -1,18 +1,10 @@
-/*
- **********************************************************
- * Software: common library 
- *
- * Module: crc class 
- *
- * Version: 0.1 
- *
+/**
+ * Software: common library
+ * Module: crc class
+ * Version: 0.1
  * Licence: GPL2
- *
- * Owner: Kim Kristo 
- *
+ * Owner: Kim Kristo
  * Date creation : 21.1.2011
- *
- **********************************************************
  */
 package oh3ebf.lib.common.crc;
 
@@ -24,7 +16,6 @@ public class crc extends crcBase {
 
     /**
      * Creates a new instance of crc
-     *
      *
      */
     public crc() {

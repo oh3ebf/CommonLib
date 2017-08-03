@@ -1,18 +1,10 @@
-/*
- **********************************************************
- * Software: common library 
- * 
- * Module: data message base class 
- * 
+/**
+ * Software: common library
+ * Module: data message base class
  * Version: 0.1
- * 
  * Licence: GPL2
- *
- * Owner: Kim Kristo 
- * 
+ * Owner: Kim Kristo
  * Date creation : 2.2.2011
- *
- **********************************************************
  */
 package oh3ebf.lib.common.protocols;
 

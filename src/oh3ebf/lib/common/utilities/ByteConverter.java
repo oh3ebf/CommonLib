@@ -1,18 +1,10 @@
-/*
- **********************************************************
- * Software: common library 
- * 
+/**
+ * Software: common library
  * Module: generic number converter class class
- * 
- * Version: 0.1 
- * 
+ * Version: 0.1
  * Licence: GPL2
- *
- * Owner: Kim Kristo 
- * 
+ * Owner: Kim Kristo
  * Date creation : 20.5.2013
- *
- **********************************************************
  */
 package oh3ebf.lib.common.utilities;
 

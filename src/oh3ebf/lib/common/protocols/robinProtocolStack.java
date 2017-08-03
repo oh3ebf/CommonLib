@@ -1,18 +1,10 @@
-/*
- **********************************************************
- * Software: common library 
- * 
- * Module: robin protocol stack class 
- * 
+/**
+ * Software: common library
+ * Module: robin protocol stack class
  * Version: 0.1
- * 
  * Licence: GPL2
- *
- * Owner: Kim Kristo 
- * 
+ * Owner: Kim Kristo
  * Date creation : 27.1.2011
- *
- **********************************************************
  */
 package oh3ebf.lib.common.protocols;
 
@@ -21,7 +13,6 @@ import java.io.*;
 public class robinProtocolStack extends protocolStackBase {
 
     // receive state machine states 
-
     private static final int MSG_STATE_START = 0;
     private static final int MSG_STATE_LEADIN = 1;
     private static final int MSG_STATE_ADDRESS = 2;

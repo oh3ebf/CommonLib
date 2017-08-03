@@ -1,18 +1,10 @@
-/*
- **********************************************************
- * Software: common library 
- *
- * Module: Pair template class 
- *
- * Version: 0.1 
- *
+/**
+ * Software: common library
+ * Module: Pair template class
+ * Version: 0.1
  * Licence: GPL2
- *
- * Owner: Kim Kristo 
- *
+ * Owner: Kim Kristo
  * Date creation : 1.2.2015
- *
- **********************************************************
  */
 package oh3ebf.lib.common;
 

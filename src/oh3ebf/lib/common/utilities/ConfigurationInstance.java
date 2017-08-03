@@ -1,18 +1,11 @@
-/*
- **********************************************************
- * Software: common library 
- * 
- * Module: configuration instance class 
- * 
+/**
+ * Software: common library
+ * Module: configuration instance class
  * Version: 0.2
- * 
  * Licence: GPL2
- *
- * Owner: Kim Kristo 
- * 
+ * Owner: Kim Kristo
  * Date creation : 16.4.2013
  *
- **********************************************************
  */
 package oh3ebf.lib.common.utilities;
 
@@ -68,7 +61,7 @@ public class ConfigurationInstance extends PropertiesConfiguration {
     }
 
     /**
-     * Function checks parameter existense and reads value
+     * Function checks parameter existence and reads value
      *
      * @param key to parameter
      * @param value to parameter initialization
@@ -90,7 +83,7 @@ public class ConfigurationInstance extends PropertiesConfiguration {
     }
 
     /**
-     * Function checks parameter existense and reads value
+     * Function checks parameter existence and reads value
      *
      * @param key to parameter
      * @param value to parameter initialization
@@ -112,11 +105,11 @@ public class ConfigurationInstance extends PropertiesConfiguration {
     }
 
     /**
-     * Function checks parameter existense and reads value
+     * Function checks parameter existence and reads value
      *
      * @param key to parameter
      * @param value to parameter initialization
-     * @return current value as int
+     * @return current value as integer
      *
      */
     public int checkAndReadIntValue(String key, Object value) {

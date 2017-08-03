@@ -1,20 +1,11 @@
-/*
- **********************************************************
- * Software: common library 
- * 
- * Module: generic exception class 
- * 
+/**
+ * Software: common library
+ * Module: generic exception class
  * Version: 0.1
- * 
  * Licence: GPL2
- *
- * Owner: Kim Kristo 
- * 
+ * Owner: Kim Kristo
  * Date creation : 19.11.2010
- *
- **********************************************************
  */
-
 package oh3ebf.lib.common.exceptions;
 
 public class genericException extends java.lang.Exception {

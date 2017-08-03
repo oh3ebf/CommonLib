@@ -1,18 +1,10 @@
-/*
- **********************************************************
+/**
  * Software: common library
- *
  * Module: parameter manager class
- *
  * Version: 0.1
- *
  * Licence: GPL2
- *
  * Owner: Kim Kristo
- *
  * Date creation : 7.1.2011
- *
- **********************************************************
  */
 package oh3ebf.lib.common.utilities;
 

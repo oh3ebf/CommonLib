@@ -1,18 +1,10 @@
-/*
- **********************************************************
+/**
  * Software: common library
- *
  * Module: printing utility class
- *
  * Version: 0.1
- *
  * Licence: GPL2
- *
  * Owner: Kim Kristo
- *
  * Date creation : 2.1.2013
- *
- **********************************************************
  */
 package oh3ebf.lib.common.utilities;
 
